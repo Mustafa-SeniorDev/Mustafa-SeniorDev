@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mustafa 👋
+### Senior Backend Engineer | Cybersecurity & Malware Research Expert
 
-<!--
-**Mustafa-SeniorDev/Mustafa-SeniorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned Software Engineer with **15 years of hands-on experience** in architecting resilient backend systems and conducting advanced cybersecurity research. My expertise lies at the intersection of robust **Python** development, offensive security methodologies, and system hardening.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Arsenal
+* **Backend Architecture:** Python (Expert), FastAPI, Django, Flask, PostgreSQL, Redis.
+* **Cybersecurity:** Malware Analysis, Penetration Testing, EDR Bypass Research, C2 Infrastructure.
+* **DevOps & Infrastructure:** Docker, Kubernetes, Linux System Administration (Kali/Debian), Cloudflare Tunnels.
+* **Low-Level Engineering:** C/C++, Bash Scripting, Reverse Engineering.
+
+### 🔬 Professional Focus
+I specialize in delivering clean, testable, and security-hardened code for complex enterprise environments. Currently, I am focused on building secure API ecosystems and researching modern threat vectors to improve digital resilience.
+
+---
+*"Engineering secure systems is a commitment to digital integrity and technical excellence."*
+
+---
